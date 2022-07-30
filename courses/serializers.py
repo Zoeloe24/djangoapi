@@ -1,3 +1,4 @@
+# This is our Serializer page
 from pyexpat import model
 from rest_framework import serializers
 from .models import Course
